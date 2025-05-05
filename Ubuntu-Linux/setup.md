@@ -30,6 +30,7 @@ docker run -dit \
 ubuntu:latest /bin/bash
 ```
 
+
 ## Step 3: Access the Ubuntu Container
 
 Command to access the Ubuntu container:
@@ -37,6 +38,9 @@ Command to access the Ubuntu container:
 ```bash
 docker exec -it "container ID" /bin/bash 
 ```
+
+<img width="1046" alt="Screenshot 2025-05-02 at 5 06 14 PM" src="https://github.com/user-attachments/assets/c9476e39-0fe3-4067-a115-fe5e8174f8ac" />
+
 
 
 
